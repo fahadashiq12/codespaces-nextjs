@@ -60,8 +60,12 @@ function Home() {
             throwError()
           }}
         >
-          Throw an Error
+          Next.js Testing December 2022 
         </Button>
+        <p>
+          This is the next.js test project.
+          <button> Click Me !! </button>
+        </p>
       </div>
       <hr className={styles.hr} />
     </main>
