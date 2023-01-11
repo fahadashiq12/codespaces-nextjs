@@ -66,6 +66,10 @@ function Home() {
           This is the next.js test project.
           <button> Click Me !! </button>
         </p>
+        <p>
+          This is the next.js test project.
+          <button> Testing Purpose </button>
+        </p>
       </div>
       <hr className={styles.hr} />
     </main>
