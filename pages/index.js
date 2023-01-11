@@ -69,7 +69,7 @@ function Home() {
         <p>
           This is the next.js test project
           <button> Testing Purpose </button>
-          <a>https://fahadashiqdev.com/</a>
+          <href>https://fahadashiqdev.com/</href>
         </p>
       </div>
       <hr className={styles.hr} />
